@@ -1,5 +1,5 @@
 {
- "generated_at_pt": "2026-11-04T12:48:22-08:00",
+ "generated_at_pt": "2026-11-04T15:39:17-08:00",
  "games": [
   {
    "sport": "CFB",
@@ -118,9 +118,9 @@
    "start_pt": "2026-11-04T17:00:00-08:00",
    "home": "MEM",
    "away": "IND",
-   "p_allin_home": 0.6329,
-   "market_mid_home": 0.674,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.6784,
+   "market_mid_home": 0.6785,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NBA",
@@ -129,9 +129,9 @@
    "start_pt": "2026-11-04T17:00:00-08:00",
    "home": "NO",
    "away": "UTAH",
-   "p_allin_home": 0.7122,
-   "market_mid_home": 0.6766,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.6712,
+   "market_mid_home": 0.6438,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NBA",
@@ -140,9 +140,9 @@
    "start_pt": "2026-11-04T17:00:00-08:00",
    "home": "OKC",
    "away": "CLE",
-   "p_allin_home": 0.6194,
+   "p_allin_home": 0.5911,
    "market_mid_home": 0.6009,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NBA",
@@ -151,9 +151,9 @@
    "start_pt": "2026-11-04T17:30:00-08:00",
    "home": "HOU",
    "away": "MIN",
-   "p_allin_home": 0.7433,
-   "market_mid_home": 0.7144,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.7261,
+   "market_mid_home": 0.7121,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NBA",
@@ -162,9 +162,9 @@
    "start_pt": "2026-11-04T18:00:00-08:00",
    "home": "DEN",
    "away": "TOR",
-   "p_allin_home": 0.6214,
-   "market_mid_home": 0.6285,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.6099,
+   "market_mid_home": 0.6377,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NBA",
@@ -173,9 +173,9 @@
    "start_pt": "2026-11-04T18:00:00-08:00",
    "home": "PHX",
    "away": "POR",
-   "p_allin_home": 0.4357,
-   "market_mid_home": 0.4184,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.3985,
+   "market_mid_home": 0.4223,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NBA",
@@ -184,9 +184,9 @@
    "start_pt": "2026-11-04T18:30:00-08:00",
    "home": "SA",
    "away": "DAL",
-   "p_allin_home": 0.8463,
-   "market_mid_home": 0.8259,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.8484,
+   "market_mid_home": 0.8293,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NBA",
@@ -195,9 +195,9 @@
    "start_pt": "2026-11-04T19:00:00-08:00",
    "home": "SAC",
    "away": "LAL",
-   "p_allin_home": 0.1586,
-   "market_mid_home": 0.1686,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.1402,
+   "market_mid_home": 0.1661,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NHL",
@@ -206,9 +206,9 @@
    "start_pt": "2026-11-04T19:00:00-08:00",
    "home": "LA",
    "away": "SJ",
-   "p_allin_home": 0.6473,
-   "market_mid_home": 0.5999,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.6816,
+   "market_mid_home": 0.6032,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -217,9 +217,9 @@
    "start_pt": "2026-11-04T19:00:00-08:00",
    "home": "SEA",
    "away": "CGY",
-   "p_allin_home": 0.5245,
-   "market_mid_home": 0.5505,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.5681,
+   "market_mid_home": 0.5442,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NBA",
@@ -228,42 +228,9 @@
    "start_pt": "2026-11-04T19:30:00-08:00",
    "home": "LAC",
    "away": "MIA",
-   "p_allin_home": 0.3279,
-   "market_mid_home": 0.3552,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
-  },
-  {
-   "sport": "TENNIS",
-   "league": "ATP",
-   "event_id": "KXATPMATCH-26NOV05MUSVAN",
-   "start_pt": "2026-11-04T21:00:00-08:00",
-   "home": "Lorenzo Musetti",
-   "away": "Luca Van Assche",
-   "p_allin_home": 0.7535,
-   "market_mid_home": 0.73,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
-  },
-  {
-   "sport": "TENNIS",
-   "league": "ATP",
-   "event_id": "KXATPMATCH-26NOV05PAUHAL",
-   "start_pt": "2026-11-04T21:00:00-08:00",
-   "home": "Tommy Paul",
-   "away": "Quentin Halys",
-   "p_allin_home": 0.7468,
-   "market_mid_home": 0.73,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
-  },
-  {
-   "sport": "TENNIS",
-   "league": "ATP",
-   "event_id": "KXATPMATCH-26NOV05SHERIN",
-   "start_pt": "2026-11-04T21:00:00-08:00",
-   "home": "Ben Shelton",
-   "away": "Arthur Rinderknech",
-   "p_allin_home": 0.7788,
-   "market_mid_home": 0.7375,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "p_allin_home": 0.3323,
+   "market_mid_home": 0.3477,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "TENNIS",
@@ -272,9 +239,9 @@
    "start_pt": "2026-11-04T22:00:00-08:00",
    "home": "Elena Pridankina",
    "away": "Alexandra Shubladze",
-   "p_allin_home": 0.3275,
+   "p_allin_home": 0.3354,
    "market_mid_home": 0.335,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "TENNIS",
@@ -283,9 +250,9 @@
    "start_pt": "2026-11-04T23:30:00-08:00",
    "home": "Mika Stojsavljevic",
    "away": "Zeynep Sonmez",
-   "p_allin_home": 0.2427,
-   "market_mid_home": 0.24,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "p_allin_home": 0.2439,
+   "market_mid_home": 0.2275,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "TENNIS",
@@ -294,9 +261,9 @@
    "start_pt": "2026-11-05T01:30:00-08:00",
    "home": "Moyuka Uchijima",
    "away": "Magda Linette",
-   "p_allin_home": 0.4482,
+   "p_allin_home": 0.4462,
    "market_mid_home": 0.44,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "TENNIS",
@@ -305,9 +272,20 @@
    "start_pt": "2026-11-05T01:30:00-08:00",
    "home": "Mai Hontama",
    "away": "Zhibek Kulambayeva",
-   "p_allin_home": 0.8232,
-   "market_mid_home": 0.8125,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "p_allin_home": 0.8075,
+   "market_mid_home": 0.805,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05PAUHAL",
+   "start_pt": "2026-11-05T02:00:00-08:00",
+   "home": "Tommy Paul",
+   "away": "Quentin Halys",
+   "p_allin_home": 0.7537,
+   "market_mid_home": 0.735,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "TENNIS",
@@ -316,9 +294,9 @@
    "start_pt": "2026-11-05T02:30:00-08:00",
    "home": "Tereza Valentova",
    "away": "Alexandra Eala",
-   "p_allin_home": 0.384,
+   "p_allin_home": 0.3863,
    "market_mid_home": 0.37,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "TENNIS",
@@ -327,9 +305,20 @@
    "start_pt": "2026-11-05T03:00:00-08:00",
    "home": "Simona Waltert",
    "away": "Lucrezia Stefanini",
-   "p_allin_home": 0.3577,
-   "market_mid_home": 0.3475,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "p_allin_home": 0.3657,
+   "market_mid_home": 0.3525,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05SHERIN",
+   "start_pt": "2026-11-05T03:30:00-08:00",
+   "home": "Ben Shelton",
+   "away": "Arthur Rinderknech",
+   "p_allin_home": 0.763,
+   "market_mid_home": 0.73,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "TENNIS",
@@ -338,9 +327,9 @@
    "start_pt": "2026-11-05T04:00:00-08:00",
    "home": "Sorana Cirstea",
    "away": "Mary Stoiana",
-   "p_allin_home": 0.7872,
+   "p_allin_home": 0.7847,
    "market_mid_home": 0.775,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "TENNIS",
@@ -349,9 +338,75 @@
    "start_pt": "2026-11-05T04:30:00-08:00",
    "home": "Anastasia Zakharova",
    "away": "Vaishnavi Adkar",
-   "p_allin_home": 0.8843,
-   "market_mid_home": 0.87,
-   "source_logged_at_pt": "2026-11-04T09:42:49-08:00"
+   "p_allin_home": 0.89,
+   "market_mid_home": 0.885,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05HIJETC",
+   "start_pt": "2026-11-05T05:00:00-08:00",
+   "home": "Rinky Hijikata",
+   "away": "Tomas Martin Etcheverry",
+   "p_allin_home": 0.5015,
+   "market_mid_home": 0.4625,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05MUSVAN",
+   "start_pt": "2026-11-05T05:00:00-08:00",
+   "home": "Lorenzo Musetti",
+   "away": "Luca Van Assche",
+   "p_allin_home": 0.7559,
+   "market_mid_home": 0.7225,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05BORBUS",
+   "start_pt": "2026-11-05T06:30:00-08:00",
+   "home": "Nuno Borges",
+   "away": "Ignacio Buse",
+   "p_allin_home": 0.5976,
+   "market_mid_home": 0.5825,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05STRRUU",
+   "start_pt": "2026-11-05T08:00:00-08:00",
+   "home": "Jan-Lennard Struff",
+   "away": "Casper Ruud",
+   "p_allin_home": 0.3813,
+   "market_mid_home": 0.3525,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05BERALC",
+   "start_pt": "2026-11-05T10:00:00-08:00",
+   "home": "Matteo Berrettini",
+   "away": "Carlos Alcaraz",
+   "p_allin_home": 0.1163,
+   "market_mid_home": 0.125,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
+  },
+  {
+   "sport": "TENNIS",
+   "league": "ATP",
+   "event_id": "KXATPMATCH-26NOV05FILFRI",
+   "start_pt": "2026-11-05T11:30:00-08:00",
+   "home": "Arthur Fils",
+   "away": "Taylor Fritz",
+   "p_allin_home": 0.524,
+   "market_mid_home": 0.51,
+   "source_logged_at_pt": "2026-11-04T15:38:44-08:00"
   },
   {
    "sport": "NHL",
@@ -360,9 +415,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "MTL",
    "away": "UTA",
-   "p_allin_home": 0.4375,
-   "market_mid_home": 0.4853,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.4318,
+   "market_mid_home": 0.4745,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -371,9 +426,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "DET",
    "away": "VGK",
-   "p_allin_home": 0.4428,
-   "market_mid_home": 0.4372,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.4523,
+   "market_mid_home": 0.4355,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -382,9 +437,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "TB",
    "away": "CHI",
-   "p_allin_home": 0.8391,
-   "market_mid_home": 0.76,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.837,
+   "market_mid_home": 0.7673,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -393,9 +448,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "NJ",
    "away": "STL",
-   "p_allin_home": 0.6715,
-   "market_mid_home": 0.632,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.6768,
+   "market_mid_home": 0.6292,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -404,9 +459,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "NYI",
    "away": "CAR",
-   "p_allin_home": 0.3865,
+   "p_allin_home": 0.4203,
    "market_mid_home": 0.3867,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -415,9 +470,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "NYR",
    "away": "PHI",
-   "p_allin_home": 0.5654,
-   "market_mid_home": 0.586,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.5722,
+   "market_mid_home": 0.5843,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -426,9 +481,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "PIT",
    "away": "BOS",
-   "p_allin_home": 0.4984,
+   "p_allin_home": 0.4914,
    "market_mid_home": 0.4948,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -437,9 +492,9 @@
    "start_pt": "2026-11-05T16:00:00-08:00",
    "home": "CBJ",
    "away": "DAL",
-   "p_allin_home": 0.4905,
-   "market_mid_home": 0.4524,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.4615,
+   "market_mid_home": 0.4558,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "CFB",
@@ -470,9 +525,9 @@
    "start_pt": "2026-11-05T17:00:00-08:00",
    "home": "WPG",
    "away": "VAN",
-   "p_allin_home": 0.6895,
-   "market_mid_home": 0.668,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.7111,
+   "market_mid_home": 0.6625,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NHL",
@@ -481,9 +536,9 @@
    "start_pt": "2026-11-05T17:00:00-08:00",
    "home": "EDM",
    "away": "ANA",
-   "p_allin_home": 0.5828,
-   "market_mid_home": 0.6292,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.5925,
+   "market_mid_home": 0.6242,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NFL",
@@ -503,9 +558,9 @@
    "start_pt": "2026-11-05T18:00:00-08:00",
    "home": "PHX",
    "away": "ORL",
-   "p_allin_home": 0.4487,
-   "market_mid_home": 0.505,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.4693,
+   "market_mid_home": 0.52,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "NHL",
@@ -514,9 +569,9 @@
    "start_pt": "2026-11-05T18:30:00-08:00",
    "home": "COL",
    "away": "NSH",
-   "p_allin_home": 0.6761,
-   "market_mid_home": 0.6717,
-   "source_logged_at_pt": "2026-11-04T09:42:33-08:00"
+   "p_allin_home": 0.6688,
+   "market_mid_home": 0.6617,
+   "source_logged_at_pt": "2026-11-04T15:38:22-08:00"
   },
   {
    "sport": "NBA",
@@ -525,9 +580,9 @@
    "start_pt": "2026-11-05T19:00:00-08:00",
    "home": "GS",
    "away": "MIA",
-   "p_allin_home": 0.5835,
-   "market_mid_home": 0.61,
-   "source_logged_at_pt": "2026-11-04T09:40:54-08:00"
+   "p_allin_home": 0.6179,
+   "market_mid_home": 0.62,
+   "source_logged_at_pt": "2026-11-04T15:37:46-08:00"
   },
   {
    "sport": "CFB",
