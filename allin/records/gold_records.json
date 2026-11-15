@@ -1,0 +1,186 @@
+{
+ "generated_at_pt": "2026-11-14T16:48:49-08:00",
+ "definition": "Gold pick = ALL_IN EARLY probability beats market by >=3c on one side (earliest row logged >=60 min before start). ROI = flat 1 unit at morning market mid, before fees. exp_wins = sum of market prices. clv_c = mean close move toward ALL_IN side in cents.",
+ "sports": {
+  "NHL": {
+   "all": {
+    "n": 83.0,
+    "w": 51.0,
+    "l": 32.0,
+    "roi": 15.6152,
+    "exp": 43.367,
+    "clvn": 47.0,
+    "clv": 1.0994
+   },
+   "fav": {
+    "n": 52.0,
+    "w": 35.0,
+    "l": 17.0,
+    "roi": 14.8985,
+    "exp": 30.2443,
+    "clvn": 26.0,
+    "clv": 1.6588
+   },
+   "dog": {
+    "n": 31.0,
+    "w": 16.0,
+    "l": 15.0,
+    "roi": 16.8174,
+    "exp": 13.1227,
+    "clvn": 21.0,
+    "clv": 0.4067
+   },
+   "last_graded_start_utc": "2026-11-14T03:00Z"
+  },
+  "Tennis WTA": {
+   "all": {
+    "n": 31.0,
+    "w": 18.0,
+    "l": 13.0,
+    "roi": 9.6812,
+    "exp": 16.4475,
+    "clvn": 23.0,
+    "clv": 0.6087
+   },
+   "fav": {
+    "n": 18.0,
+    "w": 11.0,
+    "l": 7.0,
+    "roi": -0.315,
+    "exp": 11.1075,
+    "clvn": 13.0,
+    "clv": 1.0962
+   },
+   "dog": {
+    "n": 13.0,
+    "w": 7.0,
+    "l": 6.0,
+    "roi": 23.5221,
+    "exp": 5.34,
+    "clvn": 10.0,
+    "clv": -0.025
+   },
+   "last_graded_start_utc": "2026-11-13T21:30Z"
+  },
+  "Tennis ATP": {
+   "all": {
+    "n": 49.0,
+    "w": 31.0,
+    "l": 18.0,
+    "roi": 3.0045,
+    "exp": 30.09,
+    "clvn": 38.0,
+    "clv": -1.1645
+   },
+   "fav": {
+    "n": 38.0,
+    "w": 25.0,
+    "l": 13.0,
+    "roi": -3.3859,
+    "exp": 25.4775,
+    "clvn": 29.0,
+    "clv": -1.5431
+   },
+   "dog": {
+    "n": 11.0,
+    "w": 6.0,
+    "l": 5.0,
+    "roi": 25.0803,
+    "exp": 4.6125,
+    "clvn": 9.0,
+    "clv": 0.0556
+   },
+   "last_graded_start_utc": "2026-11-14T12:00Z"
+  },
+  "NBA": {
+   "all": {
+    "n": 65.0,
+    "w": 35.0,
+    "l": 30.0,
+    "roi": -13.105,
+    "exp": 37.6424,
+    "clvn": 35.0,
+    "clv": 2.278
+   },
+   "fav": {
+    "n": 45.0,
+    "w": 32.0,
+    "l": 13.0,
+    "roi": 6.0387,
+    "exp": 30.0966,
+    "clvn": 20.0,
+    "clv": 2.3855
+   },
+   "dog": {
+    "n": 20.0,
+    "w": 3.0,
+    "l": 17.0,
+    "roi": -56.1785,
+    "exp": 7.5458,
+    "clvn": 15.0,
+    "clv": 2.1347
+   },
+   "last_graded_start_utc": "2026-11-14T03:30Z"
+  },
+  "NFL": {
+   "all": {
+    "n": 11.0,
+    "w": 6.0,
+    "l": 5.0,
+    "roi": -5.8589,
+    "exp": 5.8696,
+    "clvn": 6.0,
+    "clv": 7.1417
+   },
+   "fav": {
+    "n": 7.0,
+    "w": 5.0,
+    "l": 2.0,
+    "roi": 13.8412,
+    "exp": 4.3569,
+    "clvn": 5.0,
+    "clv": 1.45
+   },
+   "dog": {
+    "n": 4.0,
+    "w": 1.0,
+    "l": 3.0,
+    "roi": -40.3341,
+    "exp": 1.5127,
+    "clvn": 1.0,
+    "clv": 35.6
+   },
+   "last_graded_start_utc": "2026-11-13T01:15Z"
+  },
+  "CFB": {
+   "all": {
+    "n": 8.0,
+    "w": 6.0,
+    "l": 2.0,
+    "roi": 18.5785,
+    "exp": 4.9171,
+    "clvn": 4.0,
+    "clv": 0.58
+   },
+   "fav": {
+    "n": 7.0,
+    "w": 6.0,
+    "l": 1.0,
+    "roi": 35.5182,
+    "exp": 4.5419,
+    "clvn": 4.0,
+    "clv": 0.58
+   },
+   "dog": {
+    "n": 1.0,
+    "w": 0.0,
+    "l": 1.0,
+    "roi": -100.0,
+    "exp": 0.3752,
+    "clvn": 0.0,
+    "clv": null
+   },
+   "last_graded_start_utc": "2026-11-14T03:15Z"
+  }
+ }
+}
