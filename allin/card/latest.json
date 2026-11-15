@@ -1,5 +1,5 @@
 {
- "generated_at_pt": "2026-11-15T14:53:20-08:00",
+ "generated_at_pt": "2026-11-15T14:53:38-08:00",
  "date_pt": "2026-11-15",
  "rule": "gold = WTA/NHL game, or NBA game where ALL_IN's side is the favorite (market >=50c), with ALL_IN beating the market by >=3c on that side. nba_fades = watch list of NBA games where ALL_IN's >=3c side is the underdog (<50c). fade_picks = the bettable version of each nba_fade: the FAVORITE side, with faded_side = the underdog.",
  "note": "Logged prices (ALL_IN and market) from the newest pre-start row, not live. Prices are win probability in cents for the listed side.",
