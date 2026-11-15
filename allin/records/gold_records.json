@@ -1,5 +1,5 @@
 {
- "generated_at_pt": "2026-11-15T05:02:45-08:00",
+ "generated_at_pt": "2026-11-15T09:38:07-08:00",
  "definition": "Gold pick = ALL_IN EARLY probability beats market by >=3c on one side (earliest row logged >=60 min before start). ROI = flat 1 unit at morning market mid, before fees. exp_wins = sum of market prices. clv_c = mean close move toward ALL_IN side in cents.",
  "sports": {
   "NHL": {
@@ -90,7 +90,7 @@
     "clvn": 9.0,
     "clv": 0.0556
    },
-   "last_graded_start_utc": "2026-11-14T12:00Z"
+   "last_graded_start_utc": "2026-11-15T13:00Z"
   },
   "NBA": {
    "all": {
