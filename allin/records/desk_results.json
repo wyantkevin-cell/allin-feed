@@ -1,0 +1,69 @@
+{
+ "generated_at_pt": "2026-11-16T11:12:34-08:00",
+ "paper_only": true,
+ "sources": [
+  "desk_graded.csv"
+ ],
+ "definition": "Paper-only Sim Says Kalshi desk. Each graded trade is one (pick_id, signal) row from desk_graded.csv. pnl_c is P&L in cents per 1 contract after a 1-cent fee. clv_c is close_price minus paper_price in cents, on filled rows with a close. Pending rows from the laptop paper log are included only when that (pick_id, signal) is not yet in the graded file.",
+ "signals": {
+  "NBA gold favorite": {
+   "n": 1,
+   "wins": 0,
+   "losses": 0,
+   "pending": 1,
+   "paper_pnl_c": 0,
+   "clv_n": 1,
+   "clv_c": 0.0
+  },
+  "NHL gold": {
+   "n": 1,
+   "wins": 0,
+   "losses": 0,
+   "pending": 1,
+   "paper_pnl_c": 0,
+   "clv_n": 1,
+   "clv_c": 0.0
+  }
+ },
+ "n_trades": 2,
+ "n_graded_source": 2,
+ "n_pending_from_log": 0,
+ "trades": [
+  {
+   "logged_at": "2026-11-16 08:06:13",
+   "pick_id": "20261116-G01",
+   "signal": "NBA gold favorite",
+   "sport": "NBA",
+   "team": "MEM",
+   "opponent": "WAS",
+   "model_prob": 0.679,
+   "start_time_pt": "2026-11-16 16:00 PT",
+   "ticker": "KXNBAGAME-26NOV16MEMWAS-MEM",
+   "decision": "paper_take_ask",
+   "paper_price": 60,
+   "filled": true,
+   "close_price": 60,
+   "clv_c": 0,
+   "result": "pending",
+   "pnl_c": null
+  },
+  {
+   "logged_at": "2026-11-16 08:06:13",
+   "pick_id": "20261116-G02",
+   "signal": "NHL gold",
+   "sport": "NHL",
+   "team": "UTA",
+   "opponent": "VAN",
+   "model_prob": 0.828,
+   "start_time_pt": "2026-11-16 18:30 PT",
+   "ticker": "KXNHLGAME-26NOV16VANUTA-UTA",
+   "decision": "paper_take_ask",
+   "paper_price": 75,
+   "filled": true,
+   "close_price": 75,
+   "clv_c": 0,
+   "result": "pending",
+   "pnl_c": null
+  }
+ ]
+}
