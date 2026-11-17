@@ -1,5 +1,5 @@
 {
- "generated_at_pt": "2026-11-17T04:54:50-08:00",
+ "generated_at_pt": "2026-11-17T09:29:21-08:00",
  "definition": "Gold pick = ALL_IN EARLY probability beats market by >=3c on one side (earliest row logged >=60 min before start). ROI = flat 1 unit at morning market mid, before fees. exp_wins = sum of market prices. clv_c = mean close move toward ALL_IN side in cents.",
  "sports": {
   "NHL": {
@@ -64,13 +64,13 @@
   },
   "Tennis ATP": {
    "all": {
-    "n": 49.0,
-    "w": 31.0,
+    "n": 50.0,
+    "w": 32.0,
     "l": 18.0,
-    "roi": 3.0045,
-    "exp": 30.09,
-    "clvn": 38.0,
-    "clv": -1.1645
+    "roi": 5.1549,
+    "exp": 30.565,
+    "clvn": 39.0,
+    "clv": -1.0833
    },
    "fav": {
     "n": 38.0,
@@ -82,15 +82,15 @@
     "clv": -1.5431
    },
    "dog": {
-    "n": 11.0,
-    "w": 6.0,
+    "n": 12.0,
+    "w": 7.0,
     "l": 5.0,
-    "roi": 25.0803,
-    "exp": 4.6125,
-    "clvn": 9.0,
-    "clv": 0.0556
+    "roi": 32.2008,
+    "exp": 5.0875,
+    "clvn": 10.0,
+    "clv": 0.25
    },
-   "last_graded_start_utc": "2026-11-16T19:30Z"
+   "last_graded_start_utc": "2026-11-17T05:00Z"
   },
   "NBA": {
    "all": {
