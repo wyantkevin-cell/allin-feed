@@ -1,36 +1,36 @@
 {
- "generated_at_pt": "2026-11-23T17:32:52-08:00",
+ "generated_at_pt": "2026-11-25T09:45:56-08:00",
  "definition": "Gold pick = ALL_IN EARLY probability beats market by >=3c on one side (earliest row logged >=60 min before start). ROI = flat 1 unit at morning market mid, before fees. exp_wins = sum of market prices. clv_c = mean close move toward ALL_IN side in cents.",
  "sports": {
   "NHL": {
    "all": {
-    "n": 109.0,
-    "w": 62.0,
-    "l": 47.0,
-    "roi": 7.479,
-    "exp": 58.0901,
-    "clvn": 109.0,
-    "clv": 0.821
+    "n": 114.0,
+    "w": 66.0,
+    "l": 48.0,
+    "roi": 8.9019,
+    "exp": 61.0001,
+    "clvn": 114.0,
+    "clv": 0.7631
    },
    "fav": {
-    "n": 68.0,
-    "w": 41.0,
-    "l": 27.0,
-    "roi": 2.5832,
-    "exp": 40.4661,
-    "clvn": 68.0,
-    "clv": 1.2704
+    "n": 72.0,
+    "w": 44.0,
+    "l": 28.0,
+    "roi": 3.2133,
+    "exp": 42.9661,
+    "clvn": 72.0,
+    "clv": 1.1582
    },
    "dog": {
-    "n": 41.0,
-    "w": 21.0,
+    "n": 42.0,
+    "w": 22.0,
     "l": 20.0,
-    "roi": 15.599,
-    "exp": 17.624,
-    "clvn": 41.0,
-    "clv": 0.0756
+    "roi": 18.6539,
+    "exp": 18.034,
+    "clvn": 42.0,
+    "clv": 0.0857
    },
-   "last_graded_start_utc": "2026-11-23T01:00Z"
+   "last_graded_start_utc": "2026-11-24T03:00Z"
   },
   "Tennis WTA": {
    "all": {
@@ -94,22 +94,22 @@
   },
   "NBA": {
    "all": {
-    "n": 96.0,
-    "w": 55.0,
-    "l": 41.0,
-    "roi": -12.5765,
-    "exp": 59.4724,
-    "clvn": 96.0,
-    "clv": 0.9037
+    "n": 102.0,
+    "w": 59.0,
+    "l": 43.0,
+    "roi": -12.2187,
+    "exp": 63.8724,
+    "clvn": 102.0,
+    "clv": 0.5467
    },
    "fav": {
-    "n": 73.0,
-    "w": 52.0,
-    "l": 21.0,
-    "roi": 2.962,
-    "exp": 50.6766,
-    "clvn": 73.0,
-    "clv": 0.3403
+    "n": 79.0,
+    "w": 56.0,
+    "l": 23.0,
+    "roi": 2.2438,
+    "exp": 55.0766,
+    "clvn": 79.0,
+    "clv": -0.078
    },
    "dog": {
     "n": 23.0,
@@ -120,7 +120,7 @@
     "clvn": 23.0,
     "clv": 2.6922
    },
-   "last_graded_start_utc": "2026-11-23T01:30Z"
+   "last_graded_start_utc": "2026-11-24T03:00Z"
   },
   "NFL": {
    "all": {
@@ -150,7 +150,7 @@
     "clvn": 6.0,
     "clv": 7.0783
    },
-   "last_graded_start_utc": "2026-11-23T01:20Z"
+   "last_graded_start_utc": "2026-11-24T01:15Z"
   },
   "CFB": {
    "all": {
