@@ -1,16 +1,16 @@
 {
- "generated_at_pt": "2026-11-25T09:45:56-08:00",
+ "generated_at_pt": "2026-11-25T09:50:18-08:00",
  "definition": "Gold pick = ALL_IN EARLY probability beats market by >=3c on one side (earliest row logged >=60 min before start). ROI = flat 1 unit at morning market mid, before fees. exp_wins = sum of market prices. clv_c = mean close move toward ALL_IN side in cents.",
  "sports": {
   "NHL": {
    "all": {
-    "n": 114.0,
-    "w": 66.0,
+    "n": 115.0,
+    "w": 67.0,
     "l": 48.0,
-    "roi": 8.9019,
-    "exp": 61.0001,
-    "clvn": 114.0,
-    "clv": 0.7631
+    "roi": 9.7106,
+    "exp": 61.4954,
+    "clvn": 115.0,
+    "clv": 0.7823
    },
    "fav": {
     "n": 72.0,
@@ -22,15 +22,15 @@
     "clv": 1.1582
    },
    "dog": {
-    "n": 42.0,
-    "w": 22.0,
+    "n": 43.0,
+    "w": 23.0,
     "l": 20.0,
-    "roi": 18.6539,
-    "exp": 18.034,
-    "clvn": 42.0,
-    "clv": 0.0857
+    "roi": 20.5898,
+    "exp": 18.5293,
+    "clvn": 43.0,
+    "clv": 0.1528
    },
-   "last_graded_start_utc": "2026-11-24T03:00Z"
+   "last_graded_start_utc": "2026-11-25T01:00Z"
   },
   "Tennis WTA": {
    "all": {
@@ -94,22 +94,22 @@
   },
   "NBA": {
    "all": {
-    "n": 102.0,
-    "w": 59.0,
+    "n": 103.0,
+    "w": 60.0,
     "l": 43.0,
-    "roi": -12.2187,
-    "exp": 63.8724,
-    "clvn": 102.0,
-    "clv": 0.5467
+    "roi": -11.8342,
+    "exp": 64.6574,
+    "clvn": 103.0,
+    "clv": 0.5414
    },
    "fav": {
-    "n": 79.0,
-    "w": 56.0,
+    "n": 80.0,
+    "w": 57.0,
     "l": 23.0,
-    "roi": 2.2438,
-    "exp": 55.0766,
-    "clvn": 79.0,
-    "clv": -0.078
+    "roi": 2.5581,
+    "exp": 55.8616,
+    "clvn": 80.0,
+    "clv": -0.077
    },
    "dog": {
     "n": 23.0,
@@ -120,7 +120,7 @@
     "clvn": 23.0,
     "clv": 2.6922
    },
-   "last_graded_start_utc": "2026-11-24T03:00Z"
+   "last_graded_start_utc": "2026-11-25T03:00Z"
   },
   "NFL": {
    "all": {
@@ -180,7 +180,7 @@
     "clvn": 1.0,
     "clv": -8.02
    },
-   "last_graded_start_utc": "2026-11-22T03:30Z"
+   "last_graded_start_utc": "2026-11-25T00:00Z"
   }
  }
 }
