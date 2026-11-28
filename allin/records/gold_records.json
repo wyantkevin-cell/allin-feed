@@ -1,36 +1,36 @@
 {
- "generated_at_pt": "2026-11-25T17:30:42-08:00",
+ "generated_at_pt": "2026-11-27T17:35:54-08:00",
  "definition": "Gold pick = ALL_IN EARLY probability beats market by >=3c on one side (earliest row logged >=60 min before start). ROI = flat 1 unit at morning market mid, before fees. exp_wins = sum of market prices. clv_c = mean close move toward ALL_IN side in cents.",
  "sports": {
   "NHL": {
    "all": {
-    "n": 115.0,
-    "w": 67.0,
-    "l": 48.0,
-    "roi": 9.7106,
-    "exp": 61.4954,
-    "clvn": 115.0,
-    "clv": 0.7823
+    "n": 121.0,
+    "w": 72.0,
+    "l": 49.0,
+    "roi": 12.4435,
+    "exp": 64.5824,
+    "clvn": 121.0,
+    "clv": 0.746
    },
    "fav": {
-    "n": 72.0,
-    "w": 44.0,
+    "n": 75.0,
+    "w": 47.0,
     "l": 28.0,
-    "roi": 3.2133,
-    "exp": 42.9661,
-    "clvn": 72.0,
-    "clv": 1.1582
+    "roi": 5.6939,
+    "exp": 44.7899,
+    "clvn": 75.0,
+    "clv": 1.0735
    },
    "dog": {
-    "n": 43.0,
-    "w": 23.0,
-    "l": 20.0,
-    "roi": 20.5898,
-    "exp": 18.5293,
-    "clvn": 43.0,
-    "clv": 0.1528
+    "n": 46.0,
+    "w": 25.0,
+    "l": 21.0,
+    "roi": 23.4483,
+    "exp": 19.7925,
+    "clvn": 46.0,
+    "clv": 0.212
    },
-   "last_graded_start_utc": "2026-11-25T01:00Z"
+   "last_graded_start_utc": "2026-11-26T03:00Z"
   },
   "Tennis WTA": {
    "all": {
@@ -120,37 +120,37 @@
     "clvn": 23.0,
     "clv": 2.6922
    },
-   "last_graded_start_utc": "2026-11-25T03:00Z"
+   "last_graded_start_utc": "2026-11-26T03:00Z"
   },
   "NFL": {
    "all": {
-    "n": 20.0,
-    "w": 13.0,
-    "l": 7.0,
-    "roi": 8.8605,
-    "exp": 11.8051,
-    "clvn": 20.0,
-    "clv": 3.2245
+    "n": 22.0,
+    "w": 14.0,
+    "l": 8.0,
+    "roi": 6.6177,
+    "exp": 12.8241,
+    "clvn": 22.0,
+    "clv": 3.2995
    },
    "fav": {
-    "n": 14.0,
-    "w": 11.0,
+    "n": 15.0,
+    "w": 12.0,
     "l": 3.0,
-    "roi": 16.4218,
-    "exp": 9.4698,
-    "clvn": 14.0,
-    "clv": 1.5729
+    "roi": 19.8856,
+    "exp": 10.0637,
+    "clvn": 15.0,
+    "clv": 1.542
    },
    "dog": {
-    "n": 6.0,
+    "n": 7.0,
     "w": 2.0,
-    "l": 4.0,
-    "roi": -8.7824,
-    "exp": 2.3353,
-    "clvn": 6.0,
-    "clv": 7.0783
+    "l": 5.0,
+    "roi": -21.8135,
+    "exp": 2.7604,
+    "clvn": 7.0,
+    "clv": 7.0657
    },
-   "last_graded_start_utc": "2026-11-24T01:15Z"
+   "last_graded_start_utc": "2026-11-27T01:20Z"
   },
   "CFB": {
    "all": {
@@ -180,7 +180,7 @@
     "clvn": 1.0,
     "clv": -8.02
    },
-   "last_graded_start_utc": "2026-11-25T00:00Z"
+   "last_graded_start_utc": "2026-11-27T01:00Z"
   }
  }
 }
